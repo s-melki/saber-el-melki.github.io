@@ -29,21 +29,14 @@ Développeur web passionné, j’assemble des systèmes backend robustes et scal
 | Portail d’investissement | Consultation projets, participation, suivi | Symfony, REST API, UI integration |
 | Suivi production | Traçabilité globale et reporting de production | Backend API, monitoring, automatismes |
 
-## 🎓 Formation & certifications
-- Diplôme ingénieur (cours du soir) — iTeam University (2025‑Présent)
-- Licence appliquée en Technologies de l’Information — ISETJ (2014‑2017)
-- Certification (auto-formation) : architecture API, Symfony avancé (indicatif)
 
 ## 🌍 Langues
-- Français : courant
-- Anglais : technique (lecture, documentation, échanges techniques)
 - Arabe : natif
+- Français : technique (lecture, documentation, échanges techniques)
+- Anglais : technique (lecture, documentation, échanges techniques)
 
 ## 📬 Contact
-- Email : `saber.el.melki@gmail.com`
 - LinkedIn : https://www.linkedin.com/in/saber-el-melki
-- Portfolio : (ajouter ton portfolio)
-- GitHub : (ajouter ton GitHub)
 
 ## 💡 Centres d’intérêt & ouverture tech
 - Passion pour le backend API-first, l’optimisation de performances, et l’automatisation métier.
@@ -53,6 +46,5 @@ Développeur web passionné, j’assemble des systèmes backend robustes et scal
 - Freelance ✅
 - CDI ✅
 - Remote ✅
-- Projets Symfony & APIs ✅
-
-> 🤖 Ce README a été créé avec l’aide d’une IA pour une présentation claire, professionnelle et orientée résultats.
+ 
+> 😊
