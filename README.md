@@ -1,40 +1,58 @@
-# 👨‍💻 Développeur PHP Symfony — Portfolio Technique
+# ⚡ Développeur Symfony & APIs | Architecte Backend PHP
 
 ## 🌟 À propos
-Développeur web senior backend/API, je construis des architectures fiables en Symfony, API Platform et microservices. Mon expertise est de transformer des besoins métiers en solutions logicielles robustes, maintenables et évolutives.
+Développeur web passionné, j’assemble des systèmes backend robustes et scalables en PHP/Symfony. J’aime transformer des besoins métiers complexes en APIs élégantes, maintenables et performantes. Mon approche : code propre, architecture modulaire, feedback rapide et amélioration continue.
 
-### 🎯 Ce que je fais au quotidien
-- Conception d’architectures backend modulaires et maintenables.
-- Développement et optimisation d’APIs REST robustes.
-- Intégration de systèmes CMS multilingues et services externes via API.
-- Maintenance, refactorisation et livraison continue d’applications Symfony.
-- Automatisation de traitements métier (jobs, queues, serverless).
+## 🧭 Compétences techniques
+| Domaine | Technologies |
+|---|---|
+| Backend | PHP, Symfony, API Platform, Laravel, REST API, Architecture API-first |
+| Frontend basics | JavaScript, HTML, CSS, Vue.js, Angular (basics) |
+| CMS | WordPress, Sulu |
+| Bases de données | MySQL, Doctrine, SQL, optimisation requêtes |
+| DevOps & Cloud | Docker, AWS (S3, Lambda, SQS), Linux, Jenkins |
+| Tests & Qualité | PHPUnit, PHPStan, tests automatisés, CI/CD |
+| Outils | Git, Composer, Jira, Agile/Scrum |
 
-## 🧰 Compétences clés
-- **Langages** : PHP, JavaScript, SQL, Python
-- **Frameworks / APIs** : Symfony, API Platform, Laravel, Vue.js, Angular
-- **CMS** : WordPress, Sulu
-- **Base de données** : MySQL, Doctrine
-- **Cloud / DevOps** : AWS (S3, Lambda, SQS), Docker, Jenkins, Linux
-- **Outils** : Git, Composer, PHPStan, Jira, Agile/Scrum
+## 💼 Expérience professionnelle (tâches et technologies)
+- Conception et développement d’architectures backend modulaires en Symfony pour applications métiers.
+- Développement et optimisation d’APIs REST sécurisées et évolutives avec API Platform.
+- Intégration de CMS multilingues (WordPress / Sulu) dans des écosystèmes API.
+- Maintenance, refactorisation, correction de bugs et amélioration continue de code existant.
+- Mise en place de traitements automatisés et orchestrations backend (jobs, queues, serverless).
+- Collaboration en méthodologie Agile pour livrer rapidement des fonctionnalités prioritaires.
 
-## ✅ Réalisations techniques (tâches)
-- Conception et développement d’API REST pour des applications métiers et des intégrations externes.
-- Développement et maintenance d’applications backend en Symfony avec modules métier complexes.
-- Intégration de CMS via API pour un écosystème digital cohérent.
-- Mise en place de solutions serverless et automatismes pour exécuter des tâches métier.
-- Améliorations de performance, robustesse et qualité du code.
+## 🚀 Projets représentatifs
+| Projet | Description | Technologies |
+|---|---|---|
+| Plateforme métiers | Gestion de processus et workflows avec API centralisées | Symfony, API Platform, MySQL |
+| Portail d’investissement | Consultation projets, participation, suivi | Symfony, REST API, UI integration |
+| Suivi production | Traçabilité globale et reporting de production | Backend API, monitoring, automatismes |
 
-## 📌 Projets représentatifs
-- Développement d’une plateforme de gestion de workflow et processus métiers.
-- Création d’un portail de gestion d’offres et consultation en ligne.
-- Mise en place d’un outil de suivi de production avec traçabilité et reporting.
+## 🎓 Formation & certifications
+- Diplôme ingénieur (cours du soir) — iTeam University (2025‑Présent)
+- Licence appliquée en Technologies de l’Information — ISETJ (2014‑2017)
+- Certification (auto-formation) : architecture API, Symfony avancé (indicatif)
+
+## 🌍 Langues
+- Français : courant
+- Anglais : technique (lecture, documentation, échanges techniques)
+- Arabe : natif
 
 ## 📬 Contact
 - Email : `saber.el.melki@gmail.com`
 - LinkedIn : https://www.linkedin.com/in/saber-el-melki
-- GitHub : (ajoute ton lien GitHub)
+- Portfolio : (ajouter ton portfolio)
+- GitHub : (ajouter ton GitHub)
 
----
+## 💡 Centres d’intérêt & ouverture tech
+- Passion pour le backend API-first, l’optimisation de performances, et l’automatisation métier.
+- Intérêt pour les architectures serverless, microservices, DevOps et solutions cloud évolutives.
 
-> Je transforme les demandes métiers en solutions API-first, fiables et prêtes pour la production. Contactez-moi pour un projet Symfony / backend API.
+## 📌 Disponibilité
+- Freelance ✅
+- CDI ✅
+- Remote ✅
+- Projets Symfony & APIs ✅
+
+> 🤖 Ce README a été créé avec l’aide d’une IA pour une présentation claire, professionnelle et orientée résultats.
