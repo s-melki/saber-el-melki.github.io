@@ -1,7 +1,7 @@
 # ⚡ Développeur Symfony & APIs | Architecte Backend PHP
 
 ## 🌟 À propos
-Développeur web passionné, j’assemble des systèmes backend robustes et scalables en PHP/Symfony. J’aime transformer des besoins métiers complexes en APIs élégantes, maintenables et performantes. Mon approche : code propre, architecture modulaire, feedback rapide et amélioration continue.
+Je suis un développeur web, avec plus de quatre ans d'expérience professionnelle. en tant que développeur et issu d'une formation de qualité en développement d'applications web, j'ai acquis de solides compétences dans ces activités. En effet, un vrai passionné de numérique. J'ai choisi de me spécialiser dans ce domaine grâce à mes expériences professionnelles très positives.
 
 ## 🧭 Compétences techniques
 | Domaine | Technologies |
