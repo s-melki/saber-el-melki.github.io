@@ -1,96 +1,46 @@
-<h1>👨‍💻 Développeur PHP Symfony</h1>
-<p>
-Passionné par le développement backend • API Platform • Architecture scalable • Clean Code
-</p>
+# 👨‍💻 Développeur PHP Symfony — Backend & API | Fullstack
 
----
+## 🌟 À propos
+Développeur web avec plus de 5 ans d’expérience, spécialisé en architecture backend, APIs REST, et intégration CMS. Je produis des solutions robustes, maintenables et orientées performance avec Symfony, API Platform, and des outils DevOps modernes.
 
-## 🚀 À propos de moi
-<p>
-Je suis un développeur web doté de plus de six ans d’expérience professionnelle, spécialisé dans la conception et le développement d’applications web performantes et évolutives. Fort d’une formation rigoureuse en développement web, j’ai acquis une expertise approfondie dans la création de solutions numériques innovantes et robustes.
-</p>
- <p>
-Véritable passionné du digital, j’ai choisi de me consacrer pleinement à ce domaine, en consolidant mes compétences à travers des expériences professionnelles enrichissantes et couronnées de succès. Mon parcours m’a permis de maîtriser les aspects techniques du développement tout en cultivant une approche orientée qualité et efficacité.
-</p>
+## 🧰 Compétences techniques
+| Domaine | Technologies |
+|---|---|
+| Langages | PHP, JavaScript, SQL, Python |
+| Frameworks | Symfony, Laravel, WordPress, Sulu, Vue.js, Bootstrap |
+| APIs | API Platform, REST APIs |
+| Base de données | MySQL, Doctrine |
+| Cloud & DevOps | AWS (S3, Lambda, SQS), Docker, Linux (Ubuntu), Jenkins |
+| Outils | Git, Composer, PHPStan, Jira, Agile/Scrum |
 
----
+## 💼 Expériences professionnelles (tâches et technologies)
+- Conception et développement d’architectures backend complexes avec Symfony.
+- Implémentation et évolution d’APIs REST avec API Platform, utilisation par front-end et services externes.
+- Intégration et personnalisation de CMS (Sulu, WordPress) avec gestion multilingue et APIs.
+- Maintenance d’applications Symfony : correction de bugs, refactorisation, nouvelles fonctionnalités.
+- Développement front-end et intégration d’APIs pour applications Angular/Vue.js.
+- Conception et déploiement de traitements automatisés en backend pour exécuter des tâches métier.
+- Mise en place de workflows de suivi / traçabilité de production.
 
-## 🛠️ Compétences Techniques
+## 🚀 Projets
+| Projet | Description | Technologies |
+|---|---|---|
+| Reals | Plateforme de gestion immobilière (biens, annonces, suivi des activités) | Symfony, API REST, Front-end |
+| Oaks Capital Platform | Plateforme de crowdfunding pour investisseurs et suivi de projets | Backend API, UI, intégration métier |
+| Glasses Builder Monitoring | Suivi de fabrication et essayage virtuel avec traçabilité complète | API backend, monitoring |
 
-| Domaine | Compétences |
-|---------|-------------|
-| **Backend** | PHP 8+, Symfony, API Platform |
-| **Base de données** | MySQL, MariaDB, PostgreSQL |
-| **Outils Dev** | Docker, Git, GitHub Actions |
-| **Tests** | PHPUnit, Behat |
-| **Frontend (basics)** | Twig, HTML, CSS, Vue.js (basics) |
-| **Autres** | REST API, Clean Architecture, SOLID, Design Patterns |
+## 🎓 Formation & langues
+- Diplôme ingénieur (cours du soir) — iTeam University (2025‑présent)
+- Licence appliquée en Technologies de l’Information — ISETJ (2014‑2017)
+- Langues : Français (courant), Anglais (technique), Arabe (natif)
 
----
+## 📬 Contact
+- Email : saber.el.melki@gmail.com
+- LinkedIn : https://www.linkedin.com/in/saber-el-melki
+- Portfolio / GitHub : (ajouter ton lien)
 
-## 💼 Expérience Professionnelle
+## 🔎 Centres d’intérêt & disponibilité
+- Intérêts : architecture API, backend PHP/Symfony, automatisation métier, cloud serverless, DevOps.
+- Disponibilité : ouvert aux missions freelance, CDI et opportunités tech fullstack/Symfony.
 
-### 🔧 Développeur Backend PHP Symfony — *Entreprise XYZ*
-📍 Remote — 2023 - Présent  
-- Développement d’API REST avec **Symfony & API Platform**
-- Intégration avec services externes (Stripe, SendGrid…)
-- Mise en place de **tests unitaires** et CI/CD
-- Optimisation des performances SQL et cache HTTP
-
-### 💻 Développeur Web — *Freelance*
-📍 Remote — 2021 - 2023  
-- Création d’applications web sur mesure
-- Développement de backends Symfony + MySQL
-- Maintenance, debug et migration de projets
-
----
-
-## 🏗️ Projets Réalisés
-
-| Projet | Description | Tech |
-|--------|-------------|------|
-| **Blog API** | API REST complète + Auth JWT | Symfony, API Platform |
-| **E-commerce** | Panier, paiement & dashboard admin | Symfony, MySQL |
-| **Real Estate App** | Listing de propriétés + filtre avancé | Symfony, Twig |
-
----
-
-## 🎓 Formation
-- 🎓 **Master en Informatique** – Université ABC *(2020)*
-- 🎓 **Licence en Développement Web** – Institut XYZ *(2018)*
-
----
-
-## ✅ Certifications
-- ✅ Symfony Certified Developer *(optionnel si t’en as pas, on enlève)*
-- ✅ PHP 8 Certification *(idem)*
-
----
-
-## 🌍 Langues
-| Langue | Niveau |
-|--------|--------|
-| Français | ⭐⭐​⭐⭐​⭐​ (Natif) |
-| Anglais | ⭐⭐​⭐⭐​☆​ (Professionnel) |
-
----
-
-## 📫 Contact
-📧 Email : ton.email@email.com  
-💼 LinkedIn : https://linkedin.com/in/tonprofil  
-🌐 Portfolio : https://tonportfolio.com  
-🐙 GitHub : https://github.com/tonusername  
-
----
-
-## 💡 Centres d'intérêt
-💻 Open Source • 🧠 Algorithmes • 📚 Apprentissage continu • 🚀 Tech & Innovation  
-
----
-
-### ✅ Actuellement disponible pour
-✔ Mission freelance  
-✔ CDI / Remote / Hybride  
-✔ Projets backend sérieux en Symfony
-
----
+> 🎯 Format optimisé pour LinkedIn, recruteurs et SEO GitHub : structure claire, mots-clés techniques, focus tâches métier et projets.
